@@ -168,14 +168,4 @@ python -m basic.cli --num_gpus 3 --batch_size 20
 For now, please refer to the `demo` branch of this repository.
  
 
-[multi-gpu]: https://www.tensorflow.org/versions/r0.11/tutorials/deep_cnn/index.html#training-a-model-using-multiple-gpu-cards
-[squad]: http://stanford-qa.com
-[paper]: https://arxiv.org/abs/1611.01603
-[worksheet]: https://worksheets.codalab.org/worksheets/0x37a9b8c44f6845c28866267ef941c89d/
-[minjoon]: https://seominjoon.github.io
-[minjoon-github]: https://github.com/seominjoon
-[dev]: https://github.com/allenai/bi-att-flow/tree/dev
-[v0.2.1]: https://github.com/allenai/bi-att-flow/tree/v0.2.1
-[v0.3.0]: https://github.com/allenai/bi-att-flow/releases/tag/v0.3.0
-# bi-att-flow-tf1.8
-# bi-att-kktsai
+# biatt
